@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 10%;
+    background-color: aliceblue;
+}
+#Logo{
+    display: flex;
+    align-items: center;
+}
+form{
+    background-color: transparent;
+    border: 5px gainsboro solid;
+    padding: 10px;
+    border-radius: 8px;
+    width: 400px;
+    height: 300px;
+}
+#login_btn{
+    width: 100%;
+    background-color: dodgerblue;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    height: 30px;
+}
+
+input{
+    width: 100%;
+    background-color: wheat;
+    color: black;
+    border: 1px solid gainsboro;
+    border-radius: 8px;
+    height: 30px;
+    padding: 10px;
+}
+
+#signup{
+    width: 100%;
+    background-color: wheat;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    height: 30px;
+
+}
+
